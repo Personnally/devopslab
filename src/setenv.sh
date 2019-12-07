@@ -1,6 +1,6 @@
 export GITACCOUNT=Wangxiaobin123
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing24
 export KUBECONFIG=
 
 export NAMESPACE=shengbiin
